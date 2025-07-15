@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+body{
+  background-color: black;
+}
+.css-b62m3t-container{
+  width: 70%;
+}
+.css-1mi3hag-control{
+  width: 100%;
+}
+.btnNormal{
+  padding: 10px;
+  color: #fff;
+  border-radius: 10 px;
+  border: 0;
+  outline: 0;
+  cursor: pointer ; 
+}
